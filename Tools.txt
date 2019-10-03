@@ -1,0 +1,19 @@
+https://chocolatey.org/install
+
+Chocolatey
+|- powertoys
+|- cmder
+|- autohotkey
+|- greenshot
+|- vscode
+|- glogg
+|- windirstat
+|- procexp
+|- procmon
+|- spotify
+|- linqpad
+|- clink
+|- beyondcompare
+
+TranslucentTB
+Rainmeter
